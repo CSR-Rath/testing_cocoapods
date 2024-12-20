@@ -53,7 +53,6 @@
 		FA7EFAF82D15179F001A32B7 = {
 			isa = PBXGroup;
 			children = (
-				FA7EFB1A2D1518A6001A32B7 /* MyLibrary.swift */,
 				FA7EFB042D15179F001A32B7 /* MySwiftLibrary */,
 				FA7EFB0E2D1517A0001A32B7 /* MySwiftLibraryTests */,
 				FA7EFB032D15179F001A32B7 /* Products */,
@@ -72,6 +71,7 @@
 		FA7EFB042D15179F001A32B7 /* MySwiftLibrary */ = {
 			isa = PBXGroup;
 			children = (
+				FA7EFB1A2D1518A6001A32B7 /* MyLibrary.swift */,
 				FA7EFB052D15179F001A32B7 /* MySwiftLibrary.h */,
 			);
 			path = MySwiftLibrary;
