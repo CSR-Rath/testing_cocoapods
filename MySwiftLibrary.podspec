@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.author           = { 'CSR Rath' => 'sophearathchhan@gmail.com' }
   s.source           = { :git => 'https://github.com/CSR-Rath/testing_cocoapods.git', :tag => s.version.to_s }  # Update Git URL
   s.ios.deployment_target = '13.0'  # Minimum iOS version
-  s.source_files     = 'MySwiftLibrary/**/*.{h,m,swift}'  # Source files
+  s.source_files     = 'MySwiftLibrary/MySwiftLibrary/**/*.{h,m,swift}'  # Source files
 end
